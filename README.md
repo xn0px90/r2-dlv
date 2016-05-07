@@ -12,3 +12,4 @@ TODO:
 - push to radare2-extras 
 - create r2pm install script 
 - create tutorial with r2script
+- diff Golang.org example 
