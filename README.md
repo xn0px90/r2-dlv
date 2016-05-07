@@ -9,3 +9,6 @@ TODO:
 - add dlvp = attach pid 
 - add dlv option to = dh dlv
 - add dlvr = restart dlv 
+- push to radare2-extras 
+- create r2pm install script 
+- create tutorial with r2script
