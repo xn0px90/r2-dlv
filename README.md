@@ -1,4 +1,4 @@
-# r2-dlv-
+# r2-dlv
 Radare2 devel (dlv) option to debug Go binaries the right way 
 
 TODO:
@@ -6,3 +6,6 @@ TODO:
 - add ln libr/bin/dwarf.c
 - add ln libr/bin/dbinfo.c
 - add ESIL implementation 
+- add dlvp = attach pid 
+- add dlv option to = dh dlv
+- add dlvr = restart dlv 
