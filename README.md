@@ -10,6 +10,6 @@ TODO:
 - add dlv option to = dh dlv
 - add dlvr = restart dlv 
 - push to radare2-extras 
-- create r2pm install script 
+- create r2pm install script go-delve
 - create tutorial with r2script
 - diff Golang.org example 
