@@ -8,7 +8,8 @@ TODO:
 - add ESIL implementation 
 - add dlvp = attach pid 
 - add dlv option to = dh dlv
-- add dlvr = restart dlv 
+- add dlvr = list go routines 
+- add dlvR = restart dlv
 - push to radare2-extras 
 - create r2pm install script go-delve
 - create tutorial with r2script
