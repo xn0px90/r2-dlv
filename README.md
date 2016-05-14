@@ -14,3 +14,9 @@ TODO:
 - create r2pm install script go-delve
 - create tutorial with r2script
 - diff Golang.org example 
+
+-----
+
+
+golang.org/x/arch/arm/armasm
+golang.org/x/arch/x86/x86asm
