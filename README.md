@@ -1,5 +1,5 @@
 # r2-dlv
-Radare2 devel (dlv) option to debug Go binaries the right way 
+##Radare2 devel (dlv) option to debug Go binaries the right way 
 
 TODO:
 - add ln libr/debug/p/dlv.c 
@@ -15,8 +15,11 @@ TODO:
 - create tutorial with r2script
 - diff Golang.org example 
 
------
-
-
+----------
+##Resources ##
+----------
+```
+https://github.com/golang/debug
 golang.org/x/arch/arm/armasm
 golang.org/x/arch/x86/x86asm
+```
