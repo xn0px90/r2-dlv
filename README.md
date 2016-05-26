@@ -14,6 +14,7 @@ TODO:
 - create r2pm install script go-delve
 - create tutorial with r2script(hello-dlv.go)
 - diff Golang.org example 
+- diff with next repo
 
 
 ----------
